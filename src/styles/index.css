@@ -1,0 +1,17 @@
+body {
+    background-color: #1b1b32;
+    font-family: system-ui, 'sans-serif';
+}
+.main-container {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    text-align: center;
+    font-size: 44px;
+    color: #fff;
+}
