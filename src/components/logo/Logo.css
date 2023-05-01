@@ -1,0 +1,8 @@
+.logo-freecodecamp__container {
+    min-width: 300px;
+    max-width: 500px;
+    margin-top: 32px;
+}
+.logo-freecodecamp__logo {
+    width: 100%;
+}
